@@ -1,0 +1,7 @@
+python-dotenv
+pdfplumber
+langchain
+langchain-core
+langchain-google-genai
+langchain-openai
+Pillow
