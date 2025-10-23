@@ -2,7 +2,7 @@
 
 ## Overview
 
-NanoBanana is an AI-powered Jupyter Notebook that converts raw film scripts into cinematic concept art and storyboards. It dynamically injects character designs per scene to maintain visual consistency, automating the pre-visualization stage of filmmaking.
+This is an AI-powered Jupyter Notebook that converts raw film scripts into cinematic concept art and storyboards. It dynamically injects character designs per scene to maintain visual consistency, automating the pre-visualization stage of filmmaking.
 
 ## Key Features
 
