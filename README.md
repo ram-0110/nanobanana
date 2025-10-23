@@ -1,4 +1,4 @@
-# NanoBanana: Automated Cinematic Concept Art Generator
+# Consept_Art_Generator: Automated Cinematic Concept Art Generator
 
 ## Overview
 
