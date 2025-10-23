@@ -47,13 +47,6 @@ GOOGLE_API_KEY=your_gemini_key_here
 - Place character reference images in `/character_refs/` folder
 - Naming convention: `CharacterName.jpg` (e.g., `Alice.jpg`)
 
-## Example files
-### Drive link
-use this for script and images
-https://drive.google.com/drive/folders/1GeomwG82Ra0YtIgd3fxg1FPLKrzsv4CC?usp=sharing
-
-
-
 
 ## Usage
 
