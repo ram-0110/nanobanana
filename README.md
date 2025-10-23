@@ -14,7 +14,7 @@ This is an AI-powered Jupyter Notebook that converts raw film scripts into cinem
 ## Prerequisites
 
 - OpenAI API access (for GPT analysis)
-- Stability.ai or Midjourney API key (for image generation)
+- GOOGLE_API_KEY for image generation
 - Python 3.8+ environment
 
 ## Setup Instructions
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ```
 OPENAI_API_KEY=your_openai_key_here
-STABILITY_KEY=your_stability_key_here
+GOOGLE_API_KEY=your_gemini_key_here
 ```
 
 ### 4. Character Assets Preparation
