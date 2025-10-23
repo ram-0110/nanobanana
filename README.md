@@ -22,8 +22,8 @@ This is an AI-powered Jupyter Notebook that converts raw film scripts into cinem
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/ram-0110/nanobanana.git
-cd nanobanana
+git clone https://github.com/ram-0110/Consept_Art_Generator.git
+cd Consept_Art_Generator
 ```
 
 ### 2. Install Dependencies
